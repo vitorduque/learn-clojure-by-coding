@@ -2,6 +2,6 @@
   (:require [clojure.test :refer :all]
             [hello-world.core :refer :all]))
 
-(deftest hello-world-test
+(deftest hello-test
   (testing "main method should return 'Hello, World!'"
-    (is (= "Hello, World!"))))
+    (is (= "Hello, World!" hello))))

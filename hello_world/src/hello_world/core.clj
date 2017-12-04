@@ -1,6 +1,7 @@
 (ns hello-world.core)
 
+(def hello "Hello, World!")
+
 (defn -main
-  "Simple hello world"
   []
-  (println "Hello, World!"))
+  (println hello))
