@@ -11,7 +11,7 @@
   * [x] Let
   * [x] Scope
   * [x] Def
-* [ ] Functions
+* [x] Functions
   * [x] Defn
-  * [ ] Anonymous Function
-  * [ ] Closure
+  * [x] Anonymous Function
+  * [x] Closure
