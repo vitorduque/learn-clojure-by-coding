@@ -15,3 +15,12 @@
   * [x] Defn
   * [x] Anonymous Function
   * [x] Closure
+* [ ] Namespaces
+* [ ] Control Flow
+  * [ ] If
+  * [ ] If-Let
+  * [ ] When
+  * [ ] When-Let
+  * [ ] Case
+  * [ ] Cond
+  * [ ] Condp
