@@ -12,6 +12,6 @@
   * [x] Scope
   * [x] Def
 * [ ] Functions
-  * [ ] Defn
+  * [x] Defn
   * [ ] Anonymous Function
   * [ ] Closure
