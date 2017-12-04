@@ -17,9 +17,9 @@
   * [x] Closure
 * [ ] Namespaces
 * [ ] Control Flow
-  * [ ] If
-  * [ ] If-Let
-  * [ ] When
+  * [x] If
+  * [x] If-Let
+  * [x] When
   * [ ] When-Let
   * [ ] Case
   * [ ] Cond
