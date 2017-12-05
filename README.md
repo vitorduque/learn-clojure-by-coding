@@ -20,7 +20,7 @@
   * [x] If
   * [x] If-Let
   * [x] When
-  * [ ] When-Let
+  * [x] When-Let
   * [ ] Case
   * [ ] Cond
   * [ ] Condp
