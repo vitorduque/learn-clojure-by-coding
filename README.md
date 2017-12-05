@@ -16,7 +16,7 @@
   * [x] Anonymous Function
   * [x] Closure
 * [ ] Namespaces
-* [ ] Control Flow
+* [x] Control Flow
   * [x] If
   * [x] If-Let
   * [x] When
@@ -24,3 +24,18 @@
   * [x] Case
   * [x] Cond
   * [x] Condp
+* [ ] Boolean
+* [ ] Strings
+  * [ ] Literal
+  * [ ] Str
+  * [ ] Format
+* [ ] Integer
+  * [ ] Addiction
+  * [ ] Subtraction
+  * [ ] Multiplication
+  * [ ] Division
+  * [ ] Modulo
+  * [ ] Max
+  * [ ] Min
+  * [ ] Power
+  * [ ] Bigint
