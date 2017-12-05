@@ -23,4 +23,4 @@
   * [x] When-Let
   * [x] Case
   * [x] Cond
-  * [ ] Condp
+  * [x] Condp
