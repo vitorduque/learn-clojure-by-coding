@@ -30,10 +30,10 @@
   * [x] Str
   * [x] Format
 * [ ] Integer
-  * [ ] Addiction
-  * [ ] Subtraction
-  * [ ] Multiplication
-  * [ ] Division
+  * [x] Addiction
+  * [x] Subtraction
+  * [x] Multiplication
+  * [x] Division
   * [ ] Modulo
   * [ ] Max
   * [ ] Min
