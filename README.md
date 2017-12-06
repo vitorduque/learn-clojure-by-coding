@@ -34,8 +34,8 @@
   * [x] Subtraction
   * [x] Multiplication
   * [x] Division
-  * [ ] Modulo
-  * [ ] Max
-  * [ ] Min
-  * [ ] Power
+  * [x] Modulo
+  * [x] Max
+  * [x] Min
+  * [ ] Exponential
   * [ ] Bigint
