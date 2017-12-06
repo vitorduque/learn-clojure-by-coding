@@ -26,7 +26,7 @@
   * [x] Condp
 * [ ] Boolean
 * [ ] Strings
-  * [ ] Literal
+  * [x] Literal
   * [ ] Str
   * [ ] Format
 * [ ] Integer
