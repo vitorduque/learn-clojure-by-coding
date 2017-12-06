@@ -25,10 +25,10 @@
   * [x] Cond
   * [x] Condp
 * [ ] Boolean
-* [ ] Strings
+* [x] Strings
   * [x] Literal
-  * [ ] Str
-  * [ ] Format
+  * [x] Str
+  * [x] Format
 * [ ] Integer
   * [ ] Addiction
   * [ ] Subtraction
