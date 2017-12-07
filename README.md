@@ -39,3 +39,52 @@
   * [x] Min
   * [x] Exponential
   * [ ] Bigint
+* [ ] List
+  * [ ] Literal
+  * [ ] Conj
+  * [ ] Nth
+  * [ ] Count
+* [ ] Vector
+  * [ ] Literal
+  * [ ] Conj
+  * [ ] Nth
+  * [ ] .indexOf
+* [ ] Sets
+  * [ ] Literal
+  * [ ] Conj
+  * [ ] Disj
+  * [ ] Sort
+  * [ ] Contains?
+  * [ ] Subset?
+  * [ ] Superset?
+* [ ] Maps
+  * [ ] Literal
+  * [ ] Get
+  * [ ] Assoc
+  * [ ] Merge
+  * [ ] Keys
+  * [ ] Vals
+* [ ] Sequences
+  * [ ] Sec
+  * [ ] First
+  * [ ] Rest
+  * [ ] Cons
+  * [ ] Concat
+  * [ ] Map
+  * [ ] Reduce
+  * [ ] Into
+  * [ ] Reverse
+  * [ ] Iterate
+  * [ ] Range
+  * [ ] Repeatedly
+  * [ ] Doseq
+  * [ ] Take
+  * [ ] Take-While
+  * [ ] Drop
+  * [ ] Drop-While
+  * [ ] Filter
+  * [ ] Remove
+  * [ ] Partition-by
+  * [ ] Group-by
+  * [ ] Lazy Sequence
+  * [ ] For
