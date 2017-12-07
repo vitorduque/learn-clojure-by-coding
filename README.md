@@ -37,5 +37,5 @@
   * [x] Modulo
   * [x] Max
   * [x] Min
-  * [ ] Exponential
+  * [x] Exponential
   * [ ] Bigint
