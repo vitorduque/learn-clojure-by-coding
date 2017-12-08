@@ -49,14 +49,14 @@
   * [x] Conj
   * [x] Nth
   * [x] .indexOf
-* [ ] Sets
-  * [ ] Literal
-  * [ ] Conj
-  * [ ] Disj
-  * [ ] Sort
-  * [ ] Contains?
-  * [ ] Subset?
-  * [ ] Superset?
+* [x] Sets
+  * [x] Literal
+  * [x] Conj
+  * [x] Disj
+  * [x] Sort
+  * [x] Contains?
+  * [x] Subset?
+  * [x] Superset?
 * [ ] Maps
   * [ ] Literal
   * [ ] Get
