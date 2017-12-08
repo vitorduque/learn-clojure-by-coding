@@ -39,16 +39,16 @@
   * [x] Min
   * [x] Exponential
   * [ ] Bigint
-* [ ] List
+* [x] List
   * [x] Literal
   * [x] Conj
   * [x] Nth
   * [x] Count
-* [ ] Vector
-  * [ ] Literal
-  * [ ] Conj
-  * [ ] Nth
-  * [ ] .indexOf
+* [x] Vector
+  * [x] Literal
+  * [x] Conj
+  * [x] Nth
+  * [x] .indexOf
 * [ ] Sets
   * [ ] Literal
   * [ ] Conj
