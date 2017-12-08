@@ -43,7 +43,7 @@
   * [x] Literal
   * [x] Conj
   * [x] Nth
-  * [ ] Count
+  * [x] Count
 * [ ] Vector
   * [ ] Literal
   * [ ] Conj
