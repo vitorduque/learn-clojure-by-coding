@@ -41,8 +41,8 @@
   * [ ] Bigint
 * [ ] List
   * [x] Literal
-  * [ ] Conj
-  * [ ] Nth
+  * [x] Conj
+  * [x] Nth
   * [ ] Count
 * [ ] Vector
   * [ ] Literal
