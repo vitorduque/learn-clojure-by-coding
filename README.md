@@ -40,7 +40,7 @@
   * [x] Exponential
   * [ ] Bigint
 * [ ] List
-  * [ ] Literal
+  * [x] Literal
   * [ ] Conj
   * [ ] Nth
   * [ ] Count
